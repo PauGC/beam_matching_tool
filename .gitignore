@@ -1,0 +1,14 @@
+# PyCharm folder:
+.idea
+
+
+# Compiled files and folders:
+__pycache__
+*.so
+*.pyc
+build/
+venv
+
+
+# EMACS backup files:
+*.*~
