@@ -4,8 +4,8 @@
 
 GUI-based Python tool designed to evaluate and dynamically interact with the magnetic lattice of the FLASH 
 accelerator to match the beam envelope to particular experimental requirements. The code uses the beam-transport and 
-matching routines of the Ocelot toolkit. Interaction with machine componenets is performed with the Python client APIs
-for DOOCS (pydoocs). 
+matching routines of the Ocelot toolkit. Interaction with machine componenets is performed with the Python bindings
+using the C++ DOOCS client API (pydoocs). 
 
 ![GUI snapshot](gui_snapshot.png?raw=true "Title")
 
